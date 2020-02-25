@@ -28,7 +28,7 @@ class App extends Component {
 
   render() {
     return (
-      <div>
+      <div className="form_container">
         
         <Form
         countingSystem={this.state.countingSystem}
